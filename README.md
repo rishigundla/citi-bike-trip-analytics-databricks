@@ -71,3 +71,6 @@ All queries are available in the [`/sql`](./sql) folder:
 | Tableau            | Visualization                              |
 | Python (optional)  | Additional EDA / transformations           |
 
+---
+
+📄 [Read the Full Case Study](./docs/CASE_STUDY.md)
