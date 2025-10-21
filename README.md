@@ -54,7 +54,9 @@ All queries are available in the [`/sql`](./sql) folder:
 - Dashboard designed for interactive exploration of Citi Bike trends  
 - Highlights top stations, peak ride periods, and customer segments  
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview](./assets/Screenshot%202025-10-21%20132530.png)
+
+![Dashboard Preview](./assets/Screenshot%202025-10-21%20132555.png)
 
 ---
 
@@ -67,6 +69,3 @@ All queries are available in the [`/sql`](./sql) folder:
 | Tableau            | Visualization                              |
 | Python (optional)  | Additional EDA / transformations           |
 
----
-
-## 📁 Repository Structure
