@@ -45,7 +45,9 @@ All queries are available in the [`/sql`](./sql) folder:
 - `01_peak_hours.sql`  
 - `02_popular_stations.sql`  
 - `03_customer_behavior.sql`  
-- `04_duration_distribution.sql`  
+- `04_duration_distribution.sql`
+
+📑 [View Query Documentation](./sql/QUERIES_INDEX.md)
 
 ---
 
