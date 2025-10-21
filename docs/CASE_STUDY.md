@@ -68,9 +68,9 @@ The Tableau dashboard translates analytical insights into a **clean and interact
 - 👤 Customer vs Subscriber ride patterns
 - 📅 Interactive filters for date and station selection
 
-![Dashboard Preview](./assets/Screenshot%202025-10-21%20132530.png)
+![Dashboard Preview](https://github.com/rishigundla/citi-bike-trip-analytics-databricks/blob/main/assets/Screenshot%202025-10-21%20132530.png)
 
-![Dashboard Preview](./assets/Screenshot%202025-10-21%20132555.png)
+![Dashboard Preview](https://github.com/rishigundla/citi-bike-trip-analytics-databricks/blob/main/assets/Screenshot%202025-10-21%20132555.png)
 
 ---
 
