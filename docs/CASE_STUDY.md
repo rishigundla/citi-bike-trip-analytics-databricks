@@ -68,7 +68,9 @@ The Tableau dashboard translates analytical insights into a **clean and interact
 - 👤 Customer vs Subscriber ride patterns
 - 📅 Interactive filters for date and station selection
 
-![Dashboard Preview](./assets/dashboard-screenshot.png)
+![Dashboard Preview](./assets/Screenshot%202025-10-21%20132530.png)
+
+![Dashboard Preview](./assets/Screenshot%202025-10-21%20132555.png)
 
 ---
 
