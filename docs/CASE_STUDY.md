@@ -118,7 +118,6 @@ These insights can be used to **optimize bike allocation**, **improve capacity p
 ## 👤 Author
 
 **Rishikesh Gundla**  
-Senior Business Intelligence Engineer | Nutanix  
 
 📎 [LinkedIn](https://www.linkedin.com/in/rishikeshgundla)  
 🐙 [GitHub](https://github.com/rishikeshgundla)
